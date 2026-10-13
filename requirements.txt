@@ -1,0 +1,5 @@
+PySide6>=6.6
+cryptography>=42
+# build-time only (used by build_exe.bat / make_icon.py)
+pyinstaller>=6.0
+Pillow>=10
