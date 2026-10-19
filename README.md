@@ -43,4 +43,7 @@ Because great software should be effortless to use:
 git clone [https://github.com/maldyaya350-ops/video-vault.git](https://github.com/maldyaya350-ops/video-vault.git)
 cd video-vault
 pip install -r requirements.txt
-python main.py
+python build_exe.bat
+```
+
+# or click on this file build_exe.bat
