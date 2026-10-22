@@ -17,6 +17,7 @@
 
 ---
 
+
 ## What Makes Video Vault Different?
 
 If you have ever tried protecting your videos with 7-Zip, GPG, or virtual container tools like VeraCrypt, you always face the same dilemma: either plaintext files left exposed on your hard drive, or unnecessary complexity that frustrates everyday users.
